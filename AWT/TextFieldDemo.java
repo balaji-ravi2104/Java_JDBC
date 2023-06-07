@@ -2,7 +2,7 @@ package AWT;
 import java.awt.*;
 import java.awt.event.*;
 
-import MyFrame;
+
 class MyFrame extends Frame implements TextListener,ActionListener{
     
     Label l1,l2;

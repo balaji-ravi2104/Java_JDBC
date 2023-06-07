@@ -2,7 +2,7 @@ package AWT;
 import java.awt.*;
 import java.awt.event.*;
 
-import MyFrame;
+
 class MyFrame extends Frame implements ItemListener{
     Label l;
     Checkbox c1,c2,c3;

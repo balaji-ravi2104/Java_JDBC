@@ -1,7 +1,7 @@
 package AWT;
 import java.awt.*;
 
-import MyFrame;
+
 class MyFrame extends Frame{
     Label l;
     Button b;
